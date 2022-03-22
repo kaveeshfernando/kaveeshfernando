@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **kaveeshgayethra758@gmail.com**
 <br/>
-## Connect with me:
+# Connect with me:
 <p align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveesh-fernando-3462881b9/)
