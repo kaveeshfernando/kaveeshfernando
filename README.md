@@ -4,7 +4,7 @@
 <h3 align="center">I'm from Sri-Lanka. I have been studying software engineering since 2020 as a undergraduate student at University of Westminster Collab with Informatics Institute of Technology.</h3>
 
 
-## Connect with me:
+
 
 <br/>
 
