@@ -2,18 +2,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaveesh</h1>
 <h3 align="center">I'm from Sri-Lanka. I have been studying software engineering since 2020 as a undergraduate student at University of Westminster Collab with Informatics Institute of Technology.</h3>
-<br/>
 
-- 📫 How to reach me **kaveeshgayethra758@gmail.com**
-<br/>
 
 ## Connect with me:
-<p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveesh-fernando-3462881b9/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kaveesh.fernando.923) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_gayethraf_/) 
-
-</p>
 <br/>
 
 # 💻Tech Stack
